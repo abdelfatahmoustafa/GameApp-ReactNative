@@ -1,7 +1,7 @@
 # GameApp
 
 <div style="display: flex; justify-content: center;">
-	<img src="assets/video/Simulator%20Screen%20Recording%20-%20iPhone%2014%20Pro%20Max%20-%202025-11-10%20at%2013.34.04.gif" alt="App Demo" width="500" />
+	<img src="assets/video/Simulator%20Screen%20Recording%20-%20iPhone%2014%20Pro%20Max%20-%202025-11-10%20at%2013.34.04.gif" alt="App Demo" width="350" />
 </div>
 
 This is a small React Native app that implements a number guessing game.
