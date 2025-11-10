@@ -1,5 +1,9 @@
 # GameApp
 
+<div style="display: flex; justify-content: center;">
+	<img src="assets/video/Simulator%20Screen%20Recording%20-%20iPhone%2014%20Pro%20Max%20-%202025-11-10%20at%2013.34.04.gif" alt="App Demo" width="500" />
+</div>
+
 This is a small React Native app that implements a number guessing game.
 
 The demo recording for the app is included as a GIF at `assets/video/Simulator Screen Recording - iPhone 14 Pro Max - 2025-11-10 at 13.34.04.gif`. When you push this repository to GitHub, the GIF will render automatically in the README.
@@ -44,15 +48,11 @@ npm start
 npx tsc --noEmit
 ```
 
-## Embed the demo GIF in the README
+## Demo
 
-If you push the repository with the GIF at the path below, GitHub will display it inline. Use this markdown to include it in the README:
+The demo animation is embedded at the top of this README. The source GIF is located at:
 
-```md
-![Demo](assets/video/Simulator%20Screen%20Recording%20-%20iPhone%2014%20Pro%20Max%20-%202025-11-10%20at%2013.34.04.gif)
-```
-
-The path must match the file name, including spaces and punctuation. Using a URL-encoded path (as shown above) is safe for Markdown references.
+`assets/video/Simulator Screen Recording - iPhone 14 Pro Max - 2025-11-10 at 13.34.04.gif`
 
 ## Notes & next steps
 
